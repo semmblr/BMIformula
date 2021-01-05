@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace BMI
 {
@@ -11,11 +11,19 @@ namespace BMI
         static void Main(string[] args)
         {
             
-                Console.WriteLine("Lütfen boyunuzu giriniz : ");
+               try 
+	{	        
+		 Console.WriteLine("Lütfen boyunuzu giriniz : ");
                 height = Convert.ToDouble(Console.ReadLine());
 
                 Console.WriteLine("Lütfen kilonuzu giriniz : ");
                 weight = Convert.ToDouble(Console.ReadLine());
+	}
+	catch (Exception hata)
+	{
+                Console.WriteLine(hata);
+		
+	}
             
             
 
