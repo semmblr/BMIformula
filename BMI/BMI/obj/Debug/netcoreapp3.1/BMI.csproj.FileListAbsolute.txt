@@ -1,0 +1,13 @@
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csprojAssemblyReference.cache
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Sema\source\repos\BMI\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+C:\Users\Sema\source\repos\BMI\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache
